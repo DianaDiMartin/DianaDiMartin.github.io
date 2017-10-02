@@ -1,0 +1,48 @@
+
+.box {
+background-color: #000;
+height: auto;
+float: left;
+width: 100%;
+margin-top: -20px;
+
+}
+a {
+ display: inline-block;
+ color: #fff;
+}
+.box ul {
+float:right;
+}
+.box ul li {
+ text-align: center;
+ min-width: 120px;
+ display: inline-block;
+ float: left;
+}
+p {
+float:left;
+}
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+  	
+ 
+ 
+
+
+
+
+
+
+
+
