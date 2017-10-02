@@ -11,6 +11,6 @@
 
 [Урок 8](https://dianadimartin.github.io/mod_3_urok_8/"Моя домашка")-Введение в bootstrap
 
-[Урок 9](DianaDiMartin.github.io/mod_3_urok_9"Моя домашка")-Верстка при помощи bootstrap.
+[Урок 9](https://dianadimartin.github.io/mod_3_urok_9/"Моя домашка")-Верстка при помощи bootstrap.
 
 
