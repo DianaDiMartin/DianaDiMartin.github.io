@@ -1,6 +1,6 @@
 
 
-# Diana Martin (dimonkey333@gmail.com)
+# Diana Martin 
 Мои домашние задания
 
 [Урок 6](https://dianadimartin.github.io/lesson6/"Моя домашка")-Позиционирование в CSS
