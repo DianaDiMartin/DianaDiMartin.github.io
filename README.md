@@ -15,4 +15,6 @@
 
 [Урок 9](https://dianadimartin.github.io/mod_3_urok_9/)-Верстка при помощи bootstrap.
 
+[Урок 13](https://dianadimartin.github.io/mod5urok13/)-Адаптивная верстка..
+
 
