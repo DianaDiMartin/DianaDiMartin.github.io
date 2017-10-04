@@ -1,0 +1,88 @@
+.text-box{
+	padding-top: 2rem;
+}
+.resault {
+	margin-bottom: 0;
+	margin-top: 3rem;
+}
+.fonts {
+	font-size: 2rem;
+	text-align: center;
+	padding: 2rem;
+}
+small {
+	font-size: 1.3rem;
+}
+.open_sans {
+	font-family: 'Open Sans', sans-serif;
+}
+
+.bebas {
+	font-family: 'Bebas Neue';
+}
+
+.lato {
+	font-family: 'Lato';
+}
+
+.lobster {
+	font-family: 'Lobster', cursive;
+}
+@font-face {
+	font-family: 'Bebas Neue';
+	src: url('../font/subset-BebasNeue-Thin.eot');
+	src: url('../font/subset-BebasNeue-Thin.eot?#iefix') format('embedded-opentype'),
+		url('../font/subset-BebasNeue-Thin.woff') format('woff'),
+		url('../font/subset-BebasNeue-Thin.ttf') format('truetype');
+	font-weight: 100;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Bebas Neue';
+	src: url('../font/subset-BebasNeueRegular.eot');
+	src: url('../font/subset-BebasNeueRegular.eot?#iefix') format('embedded-opentype'),
+		url('../font/subset-BebasNeueRegular.woff') format('woff'),
+		url('../font/subset-BebasNeueRegular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Bebas Neue';
+	src: url('../font/subset-BebasNeueBold.eot');
+	src: url('../font/subset-BebasNeueBold.eot?#iefix') format('embedded-opentype'),
+		url('../font/subset-BebasNeueBold.woff') format('woff'),
+		url('../font/subset-BebasNeueBold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Bebas Neue';
+	src: url('../font/subset-BebasNeueLight.eot');
+	src: url('../font/subset-BebasNeueLight.eot?#iefix') format('embedded-opentype'),
+		url('../font/subset-BebasNeueLight.woff') format('woff'),
+		url('../font/subset-BebasNeueLight.ttf') format('truetype');
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Bebas Neue Book';
+	src: url('../font/subset-BebasNeueBook.eot');
+	src: url('../font/subset-BebasNeueBook.eot?#iefix') format('embedded-opentype'),
+		url('../font/subset-BebasNeueBook.woff') format('woff'),
+		url('../font/subset-BebasNeueBook.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Lato';
+	src: url('../font/subset-Lato-Regular.eot');
+	src: url('../font/subset-Lato-Regular.eot?#iefix') format('embedded-opentype'),
+		url('../font/subset-Lato-Regular.woff') format('woff'),
+		url('../font/subset-Lato-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
