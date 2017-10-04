@@ -17,6 +17,8 @@
 
 [Урок 13](https://dianadimartin.github.io/mod5urok13/)-Адаптивная верстка..
 
-[Модуль 5.Практика.Часть 1](https://dianadimartin.github.io/mod_5_praktika_1/)-Подготовка файлов. Верстка шапки сайта.
+[Модуль 5 Урок 1](https://dianadimartin.github.io/mod_5_praktika_1/)-Подготовка файлов. Верстка шапки сайта.
+
+[Модуль 5 Урок 14](https://dianadimartin.github.io/mod_5_urok_14/)-Подключение шрифтов.
 
 
