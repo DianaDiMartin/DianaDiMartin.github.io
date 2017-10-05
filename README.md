@@ -21,4 +21,6 @@
 
 [Модуль 5 Урок 14](https://dianadimartin.github.io/mod_5_urok_14/)-Подключение шрифтов.
 
+[Модуль 5 Урок 2](https://dianadimartin.github.io/mod_5_urok_14/)-Подключение шрифтов. Верстка первого экрана.
+
 
