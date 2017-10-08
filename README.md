@@ -23,4 +23,6 @@
 
 [Модуль 5 Урок 2](https://dianadimartin.github.io/mod_5_praktika_2/)-Подключение шрифтов. Верстка первого экрана.
 
+[Модуль 5 Урок 15](https://dianadimartin.github.io/mod5urok15/)-Псевдоклассы и псевдоэлементы.
+
 
