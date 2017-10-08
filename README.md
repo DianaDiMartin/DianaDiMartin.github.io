@@ -25,4 +25,6 @@
 
 [Модуль 5 Урок 15](https://dianadimartin.github.io/mod5urok15/)-Псевдоклассы и псевдоэлементы.
 
+[Модуль 5 Практика 3](DianaDiMartin.github.io/mod_5_Praktika_3/)-Эффекты при наведении и адаптив первого экрана
+
 
