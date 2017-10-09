@@ -27,4 +27,5 @@
 
 [Модуль 5 Практика 3](DianaDiMartin.github.io/mod_5_Praktika_3/)-Эффекты при наведении и адаптив первого экрана
 
+[Модуль 5 Урок 17](https://dianadimartin.github.io/mod_5_urok_17/)-Всплывающие окна
 
