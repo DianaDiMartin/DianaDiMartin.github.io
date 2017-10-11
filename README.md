@@ -29,3 +29,7 @@
 
 [Модуль 5 Урок 17](https://dianadimartin.github.io/mod_5_urok_17/)-Всплывающие окна
 
+[Модуль 5 Практика 5](DianaDiMartin.github.io/mod_5_Praktika_5/)-Верстка всплывающих окон на сайте 
+
+
+
