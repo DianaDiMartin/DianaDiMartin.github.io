@@ -31,7 +31,7 @@
 
 [Модуль 5 Практика 5](DianaDiMartin.github.io/mod_5_Praktika_5/)-Верстка всплывающих окон на сайте 
 
-[Сайт Студии](DianaDiMartin.github.io/wq/)-martinworkstudio
+[Сайт Студии](https://dianadimartin.github.io/wq/)-martinworkstudio
 
 
 
